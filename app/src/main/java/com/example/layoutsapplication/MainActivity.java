@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     }
+    //este es un cometario
 
     public void ir_ConstraintLayoutActivity_(View view) {
         Intent i= new Intent(getApplication(), ConstraintLayoutActivity.class);
