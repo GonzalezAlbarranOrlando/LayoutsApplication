@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LayoutsApplication</string>
+    <string name="constraintlayout">ConstraintLayout</string>
+    <string name="horizontalguideline">HorizontalGuideline</string>
 </resources>
