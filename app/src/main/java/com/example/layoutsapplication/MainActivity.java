@@ -21,8 +21,13 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
-    public void ir_Guideline(View view) {
+    public void ir_linear_layout_h(View view) {
         Intent i= new Intent(getApplication(), LinearLayoutHActivity.class);
+        startActivity(i);
+    }
+
+    public void ir_linear_layout_v(View view) {
+        Intent i= new Intent(getApplication(), LinearLayoutVActivity.class);
         startActivity(i);
     }
 }
