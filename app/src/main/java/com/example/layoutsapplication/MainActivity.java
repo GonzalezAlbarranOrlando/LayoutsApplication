@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         Intent i= new Intent(getApplication(), ConstraintLayoutActivity.class);
         startActivity(i);
     }
-    
+
     public void ir_Guideline(View view) {
             Toast.makeText(MainActivity.this,"Guideline",Toast.LENGTH_LONG).show();
     }
