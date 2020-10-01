@@ -16,13 +16,13 @@ public class MainActivity extends AppCompatActivity {
 
     }
     //este es un cometarioooo
-    
 
-    public void ir_ConstraintLayoutActivity_(View view) {
+    public void ir_ConstraintLayoutActivity(View view) {
         Intent i= new Intent(getApplication(), ConstraintLayoutActivity.class);
         startActivity(i);
     }
-        public void ir_Guideline(View view) {
+    
+    public void ir_Guideline(View view) {
             Toast.makeText(MainActivity.this,"Guideline",Toast.LENGTH_LONG).show();
     }
 }
