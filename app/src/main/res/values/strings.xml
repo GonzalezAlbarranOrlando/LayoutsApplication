@@ -3,5 +3,6 @@
     <string name="constraintlayout">Constraint Layout</string>
     <string name="horizontalguideline">HorizontalGuideline</string>
     <string name="regresar">Regresar</string>
-    <string name="linear_layout">Linear Layout</string>
+    <string name="linear_layout_h">Linear Layout (horizontal)</string>
+    <string name="linear_layout_v">Linear Layout (vertical)</string>
 </resources>
