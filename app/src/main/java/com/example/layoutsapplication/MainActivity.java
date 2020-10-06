@@ -30,4 +30,9 @@ public class MainActivity extends AppCompatActivity {
         Intent i= new Intent(getApplication(), LinearLayoutVActivity.class);
         startActivity(i);
     }
+
+    public void ir_table_layout(View view) {
+        Intent i= new Intent(getApplication(), TableLayout.class);
+        startActivity(i);
+    }
 }

@@ -5,4 +5,7 @@
     <string name="regresar">Regresar</string>
     <string name="linear_layout_h">Linear Layout (horizontal)</string>
     <string name="linear_layout_v">Linear Layout (vertical)</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="table_row">Table Row</string>
+
 </resources>
