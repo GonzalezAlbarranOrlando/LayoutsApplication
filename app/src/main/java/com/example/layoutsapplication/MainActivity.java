@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.FrameLayout;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -35,4 +36,16 @@ public class MainActivity extends AppCompatActivity {
         Intent i= new Intent(getApplication(), TableLayout.class);
         startActivity(i);
     }
+
+    public void ir_frame_layout(View view) {
+        Intent i= new Intent(getApplication(), FrameLayoutActivity.class);
+        startActivity(i);
+    }
+
+    public void ir_space(View view) {
+        Intent i= new Intent(getApplication(), SpaceActivity.class);
+        startActivity(i);
+    }
+
+
 }
