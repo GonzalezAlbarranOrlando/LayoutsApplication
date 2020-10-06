@@ -10,7 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".TableLayout"></activity>
-        <activity android:name=".FrameLayout" />
         <activity android:name=".LinearLayoutVActivity" />
         <activity android:name=".LinearLayoutHActivity" />
         <activity android:name=".ConstraintLayoutActivity" />
